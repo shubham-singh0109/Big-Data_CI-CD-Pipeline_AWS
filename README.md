@@ -1,7 +1,6 @@
 # Big-Data_CI-CD-Pipeline_AWS
 
-## Demo
-[Click to see the demonstration](https://www.youtube.com/watch?v=gmIltqSBG9g)
+## [Click to see the demonstration](https://www.youtube.com/watch?v=gmIltqSBG9g)
 
 
 ## Introduction
