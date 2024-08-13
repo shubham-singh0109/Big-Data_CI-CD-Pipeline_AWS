@@ -1,4 +1,4 @@
-# Big-Data_CI-CD-Pipeline_AWS
+# Big-Data_CI/CD-Pipeline_AWS
 
 ## [Click to see the demonstration](https://www.youtube.com/watch?v=gmIltqSBG9g)
 
