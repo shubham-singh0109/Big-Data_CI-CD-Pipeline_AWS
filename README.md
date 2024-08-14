@@ -7,7 +7,7 @@
 Using a real-time equities dataset, this project, named "Equity Insight Trends Explorer," seeks to examine the correlations and performance trends of several international stock exchanges. The project offers an extensive view of global financial markets by looking at several stock exchanges from various geographic locations and business sectors. A solid data pipeline based on AWS infrastructure underpins the study, guaranteeing effective data processing, storage, and continuous integration for managing huge datasets. With the use of cutting-edge AWS services like S3, Glue, CloudWatch, Lambda, Athena, and SageMaker to provide precise and fast analytics, the main objective is to get insights into market trends over time.
 
 ## Architecture
-![Flowchart Image](architecture.jpg)
+![Flowchart Image](Architecture.jpeg)
 
 ## Technology Used
 - Programming Language: Python
